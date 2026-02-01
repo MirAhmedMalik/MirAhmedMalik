@@ -17,11 +17,11 @@
 ---
 
 ## 🧠 Core Skills & Expertise
-- **Artificial Intelligence & Machine Learning**
-- **Deep Learning & Data Learning Paradigms (DLP)**
-- **Software Development**
-- **DevOps & Automation**
-- **Problem Solving & System Design**
+- Artificial Intelligence & Machine Learning  
+- Deep Learning & Data Learning Paradigms (DLP)  
+- Software Development  
+- DevOps & Automation  
+- Problem Solving & System Design  
 
 ---
 
@@ -74,30 +74,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
-- 🔍 Advanced Machine Learning & Deep Learning
-- 🚀 MLOps & DevOps practices
-- 🧩 Real-world AI projects
-- 📦 Model deployment & automation
+- Advanced Machine Learning & Deep Learning  
+- MLOps & DevOps practices  
+- Real-world AI projects  
+- Model deployment & automation  
 
 ---
 
 ## 🤝 Let’s Connect
-📫 Open to collaboration, internships, and learning opportunities  
-💬 Always happy to discuss AI, ML, DevOps, and software engineering
+📫 **Email:** meerk128@gmail.com  
+💬 Open to collaboration, internships, and learning opportunities  
+🤖 Interested in AI, Machine Learning, Deep Learning, and DevOps  
 
 ---
 
