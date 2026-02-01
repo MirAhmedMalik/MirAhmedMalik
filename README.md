@@ -2,26 +2,26 @@
 <h3 align="center">BS Artificial Intelligence Student | FAST-NUCES Karachi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+Student+at+FAST-NUCES;Machine+Learning+%26+Deep+Learning+Enthusiast;DevOps+%7C+Software+Development;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=BS+AI+Student+at+FAST-NUCES;Machine+Learning+%26+Deep+Learning+Enthusiast;DevOps+%7C+Software+Development;Building+Intelligent+and+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 🎓 I am a **BS Artificial Intelligence student (Semester 6)** at **FAST-NUCES Karachi Campus**.  
-💡 Passionate about building intelligent systems and scalable software solutions.  
-🧠 Strong foundation in **AI, Machine Learning, Deep Learning**, and **software engineering**.  
-⚙️ Interested in **DevOps, system automation, and deployment pipelines**.  
-📈 Always learning, experimenting, and improving.
+💡 Passionate about developing **intelligent systems**, **data-driven solutions**, and **scalable software**.  
+🧠 Strong academic and practical background in **AI, Machine Learning, Deep Learning**, and **software engineering**.  
+⚙️ Interested in **DevOps, automation, and AI system deployment**.  
+📈 Continuously learning and improving through projects and experimentation.
 
 ---
 
 ## 🧠 Core Skills & Expertise
 - Artificial Intelligence & Machine Learning  
 - Deep Learning & Data Learning Paradigms (DLP)  
-- Software Development  
-- DevOps & Automation  
-- Problem Solving & System Design  
+- Software Development & Problem Solving  
+- DevOps & System Automation  
+- Algorithmic Thinking & System Design  
 
 ---
 
@@ -60,44 +60,30 @@
 - **Campus:** Karachi  
 - **Current Semester:** 6  
 
-### ✅ Completed Courses
+### ✅ Completed Coursework
 - Artificial Intelligence  
 - Machine Learning  
 - Deep Learning & DLP  
 - DevOps  
-- C, C++  
-- Python  
+- C & C++ Programming  
+- Python Programming  
 - Web Development  
 - Game Development  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 ---
 
 ## 🎯 Current Focus
 - Advanced Machine Learning & Deep Learning  
 - MLOps & DevOps practices  
-- Real-world AI projects  
-- Model deployment & automation  
+- AI model deployment & automation  
+- Real-world, impact-driven AI projects  
 
 ---
 
 ## 🤝 Let’s Connect
 📫 **Email:** meerk128@gmail.com  
-💬 Open to collaboration, internships, and learning opportunities  
-🤖 Interested in AI, Machine Learning, Deep Learning, and DevOps  
+💬 Open to collaboration, internships, and research opportunities  
+🤖 Interests: AI, ML, DL, DevOps, and Software Engineering  
 
 ---
 
