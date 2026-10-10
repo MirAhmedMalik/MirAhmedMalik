@@ -1,10 +1,9 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=180&section=header&text=Mir%20Ahmed%20Malik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Student%20%7C%20FAST-NUCES%20Karachi&descSize=16&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=200&section=header&text=Mir%20Ahmed%20Malik&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Student%20%C2%B7%20FAST-NUCES%20Karachi&descSize=17&descAlignY=58" alt="Mir Ahmed Malik" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+Applied+AI;C%2B%2B+%7C+Python+%7C+DevOps;Building+practical+AI+projects" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+Applied+AI;Python+%7C+C%2B%2B+%7C+PyTorch;Learning+Docker+%26+MLOps" alt="typing" />
 </p>
 
 <p align="center">
@@ -15,65 +14,141 @@
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I'm a BS Artificial Intelligence student at **FAST-NUCES Karachi** (expected 2027).
-I like turning ML ideas into working projects, from computer vision to C++ systems.
-I'm now learning DevOps and MLOps to deploy what I build.
+I'm a BS Artificial Intelligence student at **FAST-NUCES Karachi**, graduating in 2027.
+I build practical projects, from deep learning models that turn sketches into code to classic C++ and data-structure systems.
+I'm now learning DevOps and MLOps so I can deploy what I build.
+
+| | |
+|---|---|
+| 🎓 **Studying** | BS Artificial Intelligence, FAST-NUCES |
+| 🔭 **Focus** | Machine Learning, Deep Learning, Computer Vision |
+| 🌱 **Learning** | Docker, CI/CD, model deployment |
+| 📍 **Based in** | Karachi, Pakistan |
+| 💼 **Looking for** | Internships and collaboration |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" align="middle" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark" align="middle" /> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" align="middle" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark" align="middle" /> |
-| **Learning** | <img src="https://skillicons.dev/icons?i=aws,jenkins&theme=dark" align="middle" /> |
-
-<!-- Delete any icon above you don't actually use. Delete the "Learning" row if it isn't true. -->
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,js" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" /></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,docker" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-| **Seat Reservation System** | Seat booking with REST API and web frontend | C++, REST API, JS | [Code](https://github.com/MirAhmedMalik/REPO_NAME) |
-| **Banking & ATM System** | OOP-based banking and ATM simulation | C++ (OOP) | [Code](https://github.com/MirAhmedMalik/REPO_NAME) |
-| **Flood Risk Zone Classifier** | Classifies areas by flood risk | Python, scikit-learn | [Code](https://github.com/MirAhmedMalik/REPO_NAME) |
-| **Your best project** | One line on what it does | Tech | [Code](https://github.com/MirAhmedMalik/REPO_NAME) |
-
-<!-- Replace REPO_NAME, edit rows to match your real repos. Keep 3-4 projects only. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Shape → Code (Image To Graphic Programs AI)</h3>
+      <p>Converts hand-drawn geometric sketches into drawing commands (line, circle, rectangle, triangle, ellipse, polygon). CNN encoder with an attention GRU decoder and beam search, optimized to run on CPU, with a Streamlit app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <a href="https://github.com/MirAhmedMalik/DLP_ACCURATE_PROJECT-"><img src="https://img.shields.io/badge/View_Code-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Computer Networks Project</h3>
+      <p>Computer Networks course project. Add one line here about what it does.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer_Networks-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/MirAhmedMalik/CN_PROJECT"><img src="https://img.shields.io/badge/View_Code-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ Flight Reservation System</h3>
+      <p>Flight booking system built with core data structures and algorithms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/DSA-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/MirAhmedMalik/DSA-Flight-Reservation-System"><img src="https://img.shields.io/badge/View_Code-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🃏 Sequence Game</h3>
+      <p>Digital version of the Sequence board game.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/MirAhmedMalik/Sequence-Game2"><img src="https://img.shields.io/badge/View_Code-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 Neon Snake Game</h3>
+      <p>Snake game with a neon visual style.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square" />
+      </p>
+      <a href="https://github.com/MirAhmedMalik/NEON-SNAKE-Game"><img src="https://img.shields.io/badge/View_Code-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>📂 More work</h3>
+      <a href="https://github.com/MirAhmedMalik?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-22C55E?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Currently
 
-- Deepening Machine Learning, Deep Learning and Computer Vision
-- Learning Docker, CI/CD and model deployment
-- Building portfolio projects for internships
+- 🔬 Going deeper into Machine Learning, Deep Learning and Computer Vision
+- 🐳 Learning Docker, CI/CD and AI model deployment
+- 🏗️ Building portfolio projects for internships
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MirAhmedMalik&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirAhmedMalik&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- OPTIONAL: snake animation. Needs the workflow file below. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MirAhmedMalik/MirAhmedMalik/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MirAhmedMalik/MirAhmedMalik/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:meerk128@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://www.linkedin.com/in/mir-ahmed-593b1838a/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/mir-ahmed-593b1838a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:meerk128@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+923123718894"><img src="https://img.shields.io/badge/Call-0312--3718894-22C55E?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=100&section=footer" />
+  📧 meerk128@gmail.com &nbsp;|&nbsp; 📱 0312-3718894
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=110&section=footer" />
 </p>
